@@ -1,7 +1,7 @@
 # Bikesharing Analysis
 
 # Overview
-The purpose of this analysis was to determine details that make a bikesharing business more successful - specifically looking at NYC citibike data to determine if setting it up in a new city would make any sense. The trends are outlined in this tableu public report: https://public.tableau.com/shared/B6D8P4KX4?:display_count=n&:origin=viz_share_link
+The purpose of this analysis was to determine details that make a bikesharing business more successful - specifically looking at NYC citibike data to determine if setting it up in a new city would make any sense. The trends are outlined in this tableu public report: https://public.tableau.com/app/profile/natalia.k3958/viz/ChallengeModule14Finished
 
 # Results
 ![Length of Time Using Bikes](images/checkout_times_for_users.png)
